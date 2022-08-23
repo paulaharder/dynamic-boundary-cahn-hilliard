@@ -1,4 +1,27 @@
 # Masterthesis
+
+If you use this code, please cite:
+
+```sh
+@misc{https://doi.org/10.48550/arxiv.2208.04242,
+  doi = {10.48550/ARXIV.2208.04242},
+  
+  url = {https://arxiv.org/abs/2208.04242},
+  
+  author = {Harder, Paula},
+  
+  keywords = {Numerical Analysis (math.NA), FOS: Mathematics, FOS: Mathematics},
+  
+  title = {Abstract error analysis for Cahn--Hilliard type equations with dynamic boundary conditions},
+  
+  publisher = {arXiv},
+  
+  year = {2022},
+  
+  copyright = {Creative Commons Attribution 4.0 International}
+}
+```
+
 This project are the implementations I did for my masterthesis.
 These implementations solve the Cahn-Hilliard equation with
 dynamic Cahn-Hilliard boundary conditions on a disk by using 
